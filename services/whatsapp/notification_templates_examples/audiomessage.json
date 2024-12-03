@@ -1,0 +1,40 @@
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "115034644958126",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15550569240",
+              "phone_number_id": "101959656282405"
+            },
+            "contacts": [
+              {
+                "profile": { "name": "Greg" },
+                "wa_id": "2349032092434"
+              }
+            ],
+            "messages": [
+              {
+                "from": "2349032092434",
+                "id": "wamid.HBgNMjM0OTAzMjA5MjQzNBUCABIYIDE2RjI4RjdEMzY4Q0EyRURERTc3NzExQTM2MzNCNTNDAA==",
+                "timestamp": "1687959134",
+                "type": "audio",
+                "audio": {
+                  "mime_type": "audio/ogg; codecs=opus",
+                  "sha256": "K5r9T2cuLXMScYhuJWujgexX/pZ3eyIVygccW/9O90Y=",
+                  "id": "626877292737884",
+                  "voice": true
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}
